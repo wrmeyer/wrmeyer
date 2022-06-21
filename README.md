@@ -1,4 +1,4 @@
-wrmeyer is an account belonging to Wil M. Dubree at Indiana University Bloomington.
+wrmeyer is an account belonging to Wil M. Dubree at University of Wisconsin-Madison.
 
 All repositories are created and maintained for educational and research purposes.
 
